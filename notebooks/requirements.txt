@@ -1,0 +1,8 @@
+!pip install nltk --user
+!pip install tqdm --user
+!pip install gluonnlp --user
+!pip install torchtext spacy --user
+!python -m spacy download en
+!python -m spacy download de
+! pip install bokeh --user
+! pip install xgboost --user
